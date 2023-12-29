@@ -37,6 +37,8 @@ solution(6)  # 함수 호출
 4. 나만의 언어로 요약하라
 """
 
+# framework and wix plus I'm web
+
 """Python
 언어를 활용할 때는 다음 내용만 기억하면 된다.
 - 변수 선언하기
